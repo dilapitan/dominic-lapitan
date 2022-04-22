@@ -41,6 +41,8 @@
             :key="i"
             class="overline primary--text font-weight-bold"
             text
+            :href="link.link"
+            target="_blank"
           >
             {{ link.label }}
           </v-btn>
@@ -57,7 +59,7 @@ export default {
     links: [
       {
         label: 'Portfolio',
-        link: '/',
+        link: '',
       },
       {
         label: 'Github',
