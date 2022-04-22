@@ -61,6 +61,7 @@
             text
             :href="link.link"
             target="_blank"
+            :disabled="link.label === 'Portfolio'"
           >
             {{ link.label }}
           </v-btn>
