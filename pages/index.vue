@@ -9,18 +9,18 @@
         <br />
 
         <p>
-          Hello! My name is Dominic. Currently, I'm a remote software developer
-          working for
+          👋 Hello! My name is Dominic. Currently, I'm a remote software
+          developer working for
           <span>
             <a href="https://excellenceinbreeding.org/" target="_blank"
               >Enterprise Breeding System</a
             > </span
           >. Aside from that, I love working on side projects and studying
-          topics related to modern Web development.
+          technologies related to Modern Web Development.
         </p>
 
         <p>
-          My go to tools for development are
+          🚀 My go-to tools for development are
           <span>
             <a href="https://vuejs.org/" target="_blank"> Vue </a>
           </span>
@@ -34,7 +34,7 @@
         </p>
 
         <p>
-          On the side, I enjoy reading
+          🤓 On the side, I enjoy reading
           <span>
             <a
               href="https://www.goodreads.com/user/show/121647616-dominic"
