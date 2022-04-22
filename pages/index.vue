@@ -4,7 +4,7 @@
     <v-row justify="center" align="center">
       <v-col cols="10" sm="8" md="6">
         <div class="text-h4">DOMINIC LAPITAN</div>
-        <div class="text-h6 grey--text">Remove Software Developer</div>
+        <div class="text-h6 grey--text">Remote Software Developer</div>
 
         <br />
 
@@ -16,7 +16,25 @@
               >Enterprise Breeding System</a
             > </span
           >. Aside from that, I love working on side projects and studying
-          topics related to modern Web development. On the side, I enjoy reading
+          topics related to modern Web development.
+        </p>
+
+        <p>
+          My go to tools for development are
+          <span>
+            <a href="https://vuejs.org/" target="_blank"> Vue </a>
+          </span>
+          or
+          <span>
+            <a href="https://reactjs.org/" target="_blank"> React </a> </span
+          >, and
+          <span>
+            <a href="https://nodejs.org/en/" target="_blank"> Node </a> </span
+          >.
+        </p>
+
+        <p>
+          On the side, I enjoy reading
           <span>
             <a
               href="https://www.goodreads.com/user/show/121647616-dominic"
