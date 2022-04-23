@@ -1,6 +1,5 @@
 <template>
   <v-container>
-    <br /><br />
     <v-row justify="center" align="center">
       <v-col cols="10" sm="8" md="6">
         <div class="text-h4">DOMINIC LAPITAN</div>
