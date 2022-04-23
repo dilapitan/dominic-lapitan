@@ -10,13 +10,9 @@
 
         <p>
           👋 Hello! My name is Dominic. Currently, I'm a remote software
-          developer working for
-          <span>
-            <a href="https://excellenceinbreeding.org/" target="_blank"
-              >Enterprise Breeding System</a
-            > </span
-          >. Aside from that, I love working on side projects and studying
-          technologies related to Modern Web Development.
+          developer working for open source projects. Aside from that, I love
+          working on side projects and studying technologies related to Modern
+          Web Development.
         </p>
 
         <p>
