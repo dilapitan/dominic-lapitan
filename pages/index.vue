@@ -16,7 +16,7 @@
 
         <p>
           <span>
-            🚀 My go-to tools for development are
+            👨🏻‍💻 My go-to tools for development are
             <a href="https://vuejs.org/" target="_blank">Vue</a>
             or
             <a href="https://reactjs.org/" target="_blank">React</a>, and
@@ -39,6 +39,11 @@
               >speedcubing</a
             > </span
           >, and playing classical pieces on the piano.
+        </p>
+
+        <p>
+          🚀 For inquiries, contact me at:
+          <a id="email">dilapitan.dev@gmail.com</a>
         </p>
       </v-col>
     </v-row>
@@ -92,3 +97,9 @@ export default {
   }),
 }
 </script>
+
+<style scoped>
+#email {
+  text-decoration: underline;
+}
+</style>
