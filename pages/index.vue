@@ -9,23 +9,20 @@
 
         <p>
           👋 Hello! My name is Dominic. Currently, I'm a remote software
-          developer working for open source projects. Aside from that, I love
-          working on side projects and studying technologies related to Modern
-          Web Development.
+          developer working for open source projects about Crop Breeding. Aside
+          from that, I love working on side projects and studying technologies
+          related to Modern Web Development.
         </p>
 
         <p>
-          🚀 My go-to tools for development are
           <span>
-            <a href="https://vuejs.org/" target="_blank"> Vue </a>
+            🚀 My go-to tools for development are
+            <a href="https://vuejs.org/" target="_blank">Vue</a>
+            or
+            <a href="https://reactjs.org/" target="_blank">React</a>, and
+            <a href="https://nodejs.org/en/" target="_blank">Node</a> or
+            <a href="https://firebase.google.com/" target="_blank">Firebase</a>.
           </span>
-          or
-          <span>
-            <a href="https://reactjs.org/" target="_blank"> React </a> </span
-          >, and
-          <span>
-            <a href="https://nodejs.org/en/" target="_blank"> Node </a> </span
-          >.
         </p>
 
         <p>
