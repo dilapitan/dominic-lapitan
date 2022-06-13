@@ -3,7 +3,7 @@
     <v-row justify="center" align="center">
       <v-col cols="10" sm="8" md="6">
         <div class="text-h4">DOMINIC LAPITAN</div>
-        <div class="text-h6 grey--text">Remote Software Developer</div>
+        <div class="text-h6 grey--text">Software Developer</div>
 
         <br />
 
