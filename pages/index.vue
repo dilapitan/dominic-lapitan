@@ -14,16 +14,7 @@
           related to Modern Web Development.
         </p>
 
-        <p>
-          <span>
-            👨🏻‍💻 My go-to tools for development are
-            <a href="https://vuejs.org/" target="_blank">Vue</a>
-            or
-            <a href="https://reactjs.org/" target="_blank">React</a>, and
-            <a href="https://nodejs.org/en/" target="_blank">Node</a> or
-            <a href="https://firebase.google.com/" target="_blank">Firebase</a>.
-          </span>
-        </p>
+        <MarketingContent />
 
         <p>
           🤓 On the side, I enjoy reading
@@ -69,8 +60,13 @@
 </template>
 
 <script>
+import MarketingContent from '../components/MarketingContent.vue'
+
 export default {
   name: 'IndexPage',
+  components: {
+    MarketingContent,
+  },
   data: () => ({
     links: [
       {
